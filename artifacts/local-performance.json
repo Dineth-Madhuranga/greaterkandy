@@ -1,0 +1,23 @@
+{
+  "note": "Local production server in desktop Chrome with software WebGL, unthrottled network/CPU. Diagnostic samples only; not Lighthouse, field Core Web Vitals, or INP measurements.",
+  "samples": [
+    {
+      "width": 390,
+      "lcp": 1844,
+      "cls": 0,
+      "transferBytes": 471027,
+      "scriptTransferBytes": 356268,
+      "fonts": "loaded",
+      "scripts": 13
+    },
+    {
+      "width": 1440,
+      "lcp": 2052,
+      "cls": 0.001214446094301012,
+      "transferBytes": 471027,
+      "scriptTransferBytes": 356268,
+      "fonts": "loaded",
+      "scripts": 13
+    }
+  ]
+}

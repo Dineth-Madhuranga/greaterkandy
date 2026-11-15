@@ -1,0 +1,15 @@
+{
+  "errors": [],
+  "screens": [
+    {
+      "width": 1440,
+      "overflow": false,
+      "canvasCount": 3
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "canvasCount": 3
+    }
+  ]
+}

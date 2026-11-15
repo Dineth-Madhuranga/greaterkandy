@@ -1,0 +1,76 @@
+{
+  "errors": [],
+  "warnings": [],
+  "frames": [
+    {
+      "name": "home-hero",
+      "scroll": 0,
+      "pins": 1
+    },
+    {
+      "name": "menu-unfolding",
+      "scroll": 0,
+      "pins": 1
+    },
+    {
+      "name": "menu-open",
+      "scroll": 0,
+      "pins": 1
+    },
+    {
+      "name": "service-wipe",
+      "scroll": 1778,
+      "pins": 1
+    },
+    {
+      "name": "service-arrived",
+      "scroll": 1778,
+      "pins": 1
+    },
+    {
+      "name": "manifesto-0",
+      "scroll": 2688,
+      "pins": 1
+    },
+    {
+      "name": "manifesto-500",
+      "scroll": 3188,
+      "pins": 1
+    },
+    {
+      "name": "manifesto-950",
+      "scroll": 3638,
+      "pins": 1
+    },
+    {
+      "name": "route-cover",
+      "scroll": 3638,
+      "pins": 1
+    },
+    {
+      "name": "approach-arrived",
+      "scroll": 0,
+      "pins": 0
+    },
+    {
+      "name": "process-stack",
+      "scroll": 2691,
+      "pins": 0
+    },
+    {
+      "name": "about-conveyor",
+      "scroll": 2862,
+      "pins": 1
+    },
+    {
+      "name": "mobile-hero",
+      "scroll": 0,
+      "pins": 0
+    },
+    {
+      "name": "mobile-menu",
+      "scroll": 0,
+      "pins": 0
+    }
+  ]
+}
